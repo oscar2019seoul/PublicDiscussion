@@ -1,2 +1,2 @@
 # PublicDiscussion
-Public Discussion for code and idea
+Public Discussion for code, idea, tips and tricks
